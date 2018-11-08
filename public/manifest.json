@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React + Redux Slots",
+  "name": "React + Redux Slots",
   "icons": [
     {
       "src": "favicon.ico",
